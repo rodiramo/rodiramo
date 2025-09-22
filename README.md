@@ -32,7 +32,7 @@
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?logo=html5&logoColor=E34F26&labelColor=20232A" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?logo=css3&logoColor=1572B6&labelColor=20232A" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=FFFFFF&labelColor=20232A" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-20232A?logo=nextdotjs&logoColor=FFFFFF&labelColor=20232A" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-20232A?logo=php&logoColor=FFFFFF&labelColor=20232A" />
 <img alt="Vite" src="https://img.shields.io/badge/Vite-20232A?logo=vite&logoColor=646CFF&labelColor=20232A" />
 <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232A?logo=tailwindcss&logoColor=06B6D4&labelColor=20232A" />
 
@@ -73,8 +73,6 @@
 
 ### 📈 GitHub at a glance
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodiramo&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodiramo&layout=compact)
 
 </div>
