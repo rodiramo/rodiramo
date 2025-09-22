@@ -23,7 +23,7 @@
 <div align="center">
 
 <!-- Core -->
-<img alt="React"   width="516" height="56"  src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" />
+<img alt="React"   width="100" height="100"  src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?logo=nodedotjs&logoColor=339933&labelColor=20232A" />
 <img alt="Express" src="https://img.shields.io/badge/Express-20232A?logo=express&logoColor=FFFFFF&labelColor=20232A" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&logoColor=47A248&labelColor=20232A" />
