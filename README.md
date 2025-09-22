@@ -20,29 +20,31 @@
 ---
 
 ### 🧱 Tech I use
-<p align="center">
-  <!-- Core -->
-  <img src="https://cdn.simpleicons.org/react/61DAFB/ffffff"           width="56" height="56" title="React" alt="React" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933/ffffff"       width="56" height="56" title="Node.js" alt="Node.js" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/express/000000/ffffff"         width="56" height="56" title="Express" alt="Express" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248/ffffff"         width="56" height="56" title="MongoDB" alt="MongoDB" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
+<div align="center">
 
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26/ffffff"           width="56" height="56" title="HTML5" alt="HTML5" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6/ffffff"            width="56" height="56" title="CSS3" alt="CSS3" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff"       width="56" height="56" title="Next.js" alt="Next.js" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/php/777BB4/ffffff"             width="56" height="56" title="PHP" alt="PHP" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF/ffffff"            width="56" height="56" title="Vite" alt="Vite" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4/ffffff"     width="56" height="56" title="Tailwind CSS" alt="Tailwind CSS" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
+<!-- Core -->
+<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&labelColor=20232A" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?logo=nodedotjs&logoColor=339933&labelColor=20232A" />
+<img alt="Express" src="https://img.shields.io/badge/Express-20232A?logo=express&logoColor=FFFFFF&labelColor=20232A" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&logoColor=47A248&labelColor=20232A" />
 
-  <!-- Tools -->
-  <img src="https://cdn.simpleicons.org/git/F05032/ffffff"             width="56" height="56" title="Git" alt="Git" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E/ffffff"           width="56" height="56" title="Figma" alt="Figma" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF/ffffff"  width="56" height="56" title="Photoshop" alt="Photoshop" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00/ffffff"width="56" height="56" title="Illustrator" alt="Illustrator" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624/ffffff"           width="56" height="56" title="Linux" alt="Linux" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-  <img src="https://cdn.simpleicons.org/vercel/000000/ffffff"          width="56" height="56" title="Vercel" alt="Vercel" style="margin:10px; border-radius:50%; background:#ffffff; padding:8px;" />
-</p>
+<!-- Frontend -->
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?logo=html5&logoColor=E34F26&labelColor=20232A" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-20232A?logo=css3&logoColor=1572B6&labelColor=20232A" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-20232A?logo=nextdotjs&logoColor=FFFFFF&labelColor=20232A" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-20232A?logo=vite&logoColor=646CFF&labelColor=20232A" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-20232A?logo=tailwindcss&logoColor=06B6D4&labelColor=20232A" />
+
+<!-- Tools -->
+<img alt="Git" src="https://img.shields.io/badge/Git-20232A?logo=git&logoColor=F05032&labelColor=20232A" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-20232A?logo=figma&logoColor=F24E1E&labelColor=20232A" />
+<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-20232A?logo=adobephotoshop&logoColor=31A8FF&labelColor=20232A" />
+<img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-20232A?logo=adobeillustrator&logoColor=FF9A00&labelColor=20232A" />
+<img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?logo=linux&logoColor=FCC624&labelColor=20232A" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-20232A?logo=vercel&logoColor=FFFFFF&labelColor=20232A" />
+
+</div>
+
 
 
 ---
