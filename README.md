@@ -13,9 +13,10 @@
 
 ### ✨ About me
 - 🎓 Higher Technical Degree in ** Web Design and Development** (Escuela Da Vinci)
-- 🧰 I enjoy crafting **clean UIs** and building **end-to-end** features
+- 🧰 I enjoy creating **clean UIs** and building **end-to-end** features
 - 🌍 Languages: **ES** (native) · **EN** (C2) · **DE** (C1 in progress)
 - 🎒 Interests: traveling, learning languages, drawing
+- 🇩🇪 Ich lebe in Deutschland und liebe Webdesign genauso wie Full-Stack-Entwicklung.
 
 ---
 
