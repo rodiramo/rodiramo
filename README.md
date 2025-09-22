@@ -66,6 +66,6 @@
 ---
 
 ### 📬 Contact
-- Portfolio: **rociodiazramos.com**  
+- Portfolio: **www.rociodiazramos.com**  
 - Email: **ivemeyerrocio@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/rocio-diaz-ramos**
