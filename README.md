@@ -73,7 +73,7 @@
 ### 📈 GitHub at a glance
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rociodiazramos&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rociodiazramos&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodiramo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodiramo&layout=compact)
 
 </div>
