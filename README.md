@@ -4,7 +4,7 @@
 <h1>Hi, I'm Rocío 👋</h1>
 <p><strong>Full-Stack Web Developer</strong> · React • Node • MongoDB · UX-Designer</p>
 
-<a href="https://www.rociodiazramos.com" target="_blank">Portfolio</a> ·
+<a href="https://rociodiazramos.com" target="_blank">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/rocio-diaz-ramos" target="_blank">LinkedIn</a>
 
 </div>
@@ -66,6 +66,6 @@
 ---
 
 ### 📬 Contact
-- Portfolio: **www.rociodiazramos.com**  
+- Portfolio: **rociodiazramos.com**  
 - Email: **ivemeyerrocio@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/rocio-diaz-ramos**
